@@ -15,4 +15,4 @@ class ChattyStudent(Student):
         for _ in range(10):
             super().raise_hand()
 pass
-   
+
